@@ -226,7 +226,7 @@ psutil>=5.9.0
 
 MIT License
 
-Copyright (c) 2026 Jordanyx Montague-Jolly
+Copyright (c) 2026 jmon360
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
